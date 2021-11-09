@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: /images/WhatsApp Image 2021-10-27 at 22.42.27 (1).jpeg
+content_img_path: /images/R.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
